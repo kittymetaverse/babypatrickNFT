@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0xEd364484102eb25a5b1B7d25334BBF39aC284717",
+  "SCAN_LINK": "https://polygonscan.com/token/0xEd364484102eb25a5b1B7d25334BBF39aC284717",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Baby Patrick NFT",
+  "SYMBOL": "STAR",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/baby-patrick",
+  "TWITTER": "Twitter",
+  "TWITTER_LINK": "https://twitter.com/babypatrickNFT/",
+  "SHOW_BACKGROUND": true
+}
